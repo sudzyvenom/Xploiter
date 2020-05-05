@@ -4,7 +4,7 @@ Pubg Mobile/Lite Cheats And Tools
 How To Use:
 
 •Shell:
-1. After Cloning bash Xploiter.sh
+1. After Cloning Use bash Xploiter.sh To Run Shell
 2. Enter Login Detail
 3. Wait Till The Shell Ends 
 
